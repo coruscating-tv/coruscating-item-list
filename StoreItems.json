@@ -374,7 +374,7 @@
 	},
 	{
 		"abr": "beer",
-		"price": 20,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "Beer"
 	},
